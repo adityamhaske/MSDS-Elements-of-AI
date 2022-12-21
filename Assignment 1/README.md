@@ -1,8 +1,6 @@
-# cbachhu-admhaske-dpujari-a1
 ## Assignment 1
 
 ### Part 1: Birds, heuristics, and A
-**Assigned member: Aditya Sanjay Mhaske**
 
 Initial State: N=5
 
@@ -22,7 +20,6 @@ Reference: Disccuesed with Dhanush Bharat Raj
 
 
 ### Part  2:  The  2022  Puzzle
-**Assigned member: Chandra Kiran Bachhu**
 
 Initial State:
 We are given a board with 25 tiles (5*5)
@@ -57,7 +54,6 @@ TERMINAL OUTPUT :
 ![image](https://media.github.iu.edu/user/21646/files/63631f96-98a0-487c-aa54-a76f5abc1215)
 
 ### Part 3: Road Trip
-**Assigned member: Deveshwari Pujari**
 
 State Space:
 All possible routes from point ‘A’ to point ‘B’ covering all the essential cities exhaustively on the map.
